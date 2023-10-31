@@ -20,7 +20,7 @@ a {
 .top-wrapper {
   height: 500px;
   padding: 180px 0 100px 0;
-  background-image: url(https://github.com/spwhmd/sample/blob/main/3861868_l.jpg);
+  background-image: url("https://github.com/spwhmd/sample/blob/sample/3861868_l.jpg");
   background-size: cover;
   color: black;
   text-align: center;
